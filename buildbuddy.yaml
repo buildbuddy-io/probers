@@ -1,0 +1,5 @@
+actions:
+  - name: Prober test
+    container_image: ubuntu-20.04
+    bazel_commands:
+      - version
